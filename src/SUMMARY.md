@@ -1,17 +1,17 @@
 [Introduction](./project_intro.md)
 
 # Haptic Devices
-- [Supported Devices]()
-- [DIY Devices]()
+- [Supported Devices](./devices/supported-devices.md)
+- [DIY Devices](./devices/native.md)
   - [Update Devices]()
-- [Bhaptics Devices]()
+- [Bhaptics Devices](./devices/bhaptics.md)
 
 # VRC Avatars
-- [Basic Installation](./chapter_1.md)
+- [Basic Installation](./avatar/avatar-integration.md)
 - [Unity Installer]()
 - [Haptic Configuration Files]()
 
 # Haptics Manager
 - [Install]()
-- [Manager - Basic]()
-- [Manager - Advanced]()
+- [Manager - Basic](./manager/haptic-manager.md)
+- [Manager - Node Map](./manager/node-map.md)
